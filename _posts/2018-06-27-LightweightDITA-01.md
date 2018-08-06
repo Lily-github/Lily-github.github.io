@@ -1,8 +1,8 @@
 ---
 layout: post
+title: Lightweight DITA系列（上篇）
 ---
 
-# Lightweight DITA系列（上篇）
 
 ## Foreword
 
