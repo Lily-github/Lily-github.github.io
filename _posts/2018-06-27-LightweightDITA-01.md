@@ -304,7 +304,7 @@ The following video demonstrates a recommended installation:
 
 **相关阅读**
 
-- [Lightweight DITA系列（中篇）](2018-06-29-LightweightDITA-03.md)
-- [Lightweight DITA系列（下篇）](2018-07-04-LightweightDITA-03.md)
+- [Lightweight DITA系列（中篇）](https://lily-github.github.io/LightweightDITA-02/)
+- [Lightweight DITA系列（下篇）](https://lily-github.github.io/LightweightDITA-03/)
 - [Lightweight DITA: An Introduction Version 1.0 ](<http://docs.oasis-open.org/dita/LwDITA/v1.0/LwDITA-v1.0.html>)
 
