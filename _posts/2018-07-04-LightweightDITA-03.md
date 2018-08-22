@@ -41,11 +41,11 @@ title: Lightweight DITA系列（下篇）
 
 敲黑板复习一下:
 
-[上篇：什么是LwDITA，LwDITA三种基本文件类型及对应示例](2018-06-27-LightweightDITA-01.md)
+[上篇：什么是LwDITA，LwDITA三种基本文件类型及对应示例](https://lily-github.github.io/LightweightDITA-01/)
 
-[中篇：通过一个虚拟团队写作任务，展示不同角色的人员使用LwDITA三种文件类型如何进行内容协作与同源开发](2018-06-29-LightweightDITA-02.md)
+[中篇：通过一个虚拟团队写作任务，展示不同角色的人员使用LwDITA三种文件类型如何进行内容协作与同源开发](https://lily-github.github.io/LightweightDITA-02/)
 
-[下篇：了解LwDITA的48种元素，及各元素在LwDITA三种基本文件类型种的表现形式](2018-07-04-LightweightDITA-03.md)
+[下篇：了解LwDITA的48种元素，及各元素在LwDITA三种基本文件类型种的表现形式](https://lily-github.github.io/LightweightDITA-03/)
 
 官方标准，请参见
 [Lightweight DITA: An Introduction Version 1.0 ](<http://docs.oasis-open.org/dita/LwDITA/v1.0/LwDITA-v1.0.html>)
