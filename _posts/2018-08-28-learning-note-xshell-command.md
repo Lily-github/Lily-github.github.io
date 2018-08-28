@@ -1,8 +1,8 @@
 ---
 layout: post
+category: learning note
+title: 学习笔记 | XShell常用操作命令
 ---
-
-# 学习笔记 | XShell常用操作命令
 
 近期在学习使用XShell在Linux服务器上管理资源文件，特整理常用的XShell操作命令。
 
