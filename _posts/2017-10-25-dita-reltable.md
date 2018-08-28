@@ -1,6 +1,5 @@
 ---
 layout: post
-category: dita
 ---
 
 # DITA Relationship Table
