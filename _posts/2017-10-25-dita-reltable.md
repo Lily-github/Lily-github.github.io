@@ -1,8 +1,8 @@
 ---
 layout: post
+category: dita
+title: DITA Relationship Table
 ---
-
-# DITA Relationship Table
 
 DITA结构化写作中，不同主题之间的链接除了层级链接和内嵌链接外，还有另一种链接选择：相关链接（related links）。通常，使用关系表（对应DITA元素为<reltable>
 ）创建相关主题间、DITA topic文件和非DITA文件之间的相互链接。
