@@ -1,6 +1,5 @@
 ---
 layout: post
-category: note
 ---
 
 # 学习笔记 | XShell常用操作命令
