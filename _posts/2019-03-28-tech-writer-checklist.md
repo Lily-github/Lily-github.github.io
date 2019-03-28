@@ -1,5 +1,3 @@
-# TW Checklist
-
 
 
 > “...写作者近90%的时间都在与文字打交道...自己写完的文字当时看着挺好的，事后却不得不砍掉大半，甚至全部重来...” Rudolf Fleisch
@@ -50,7 +48,7 @@ TW自己写完文档后，若不想直接发出然后收到同行、Developer等
 
 ## 小知识：如何高效设置Microsoft Word的拼写和语法检查工具
 
-![](assets/word-spell-gramma-check.png)
+![](../images/word-spell-gramma-check.png)
 
 ## 小建议：如何写“好”文档
 
